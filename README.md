@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/libingchen716/pipeline-test/_apis/build/status/BingchenLi.pipelines-java?branchName=master)](https://dev.azure.com/libingchen716/pipeline-test/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
